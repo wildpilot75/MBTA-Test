@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/MBTA-Test/v16/Server/sqlite3
+/obj
+/src/MbtaApiAdapter/bin/Debug/netcoreapp3.1
+/src/MbtaApiAdapter/obj/Debug/netcoreapp3.1
+/src/MbtaApiAdapter/obj
+/src/MbtaCommon/bin/Debug/netcoreapp3.1
+/src/MbtaCommon/obj

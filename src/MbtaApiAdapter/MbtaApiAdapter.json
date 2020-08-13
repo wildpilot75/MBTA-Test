@@ -1,0 +1,9 @@
+{
+  "ApiUrl": "https://api-v3.mbta.com",
+  "PublisherAddress": "tcp://*:6000",
+  "ApiKey": "54db001018494b76acbe9efa3e03209e",
+  "PageSize": 20,
+  "Stops": "/stops",
+  "Schedule": "/schedules?filter[stop]={Id}&sort=time&page[limit]={PageSize}&filter[min_time]={MinTime}&include=trip,prediction",
+  "Trip": "/trips/{Id}"
+}
